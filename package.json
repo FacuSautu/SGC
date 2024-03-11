@@ -1,0 +1,19 @@
+{
+  "name": "sgc",
+  "version": "1.0.0",
+  "description": "Sistema de Gestion Caseril",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FacuSautu/SGC.git"
+  },
+  "author": "F. Sautú & G. Scherzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FacuSautu/SGC/issues"
+  },
+  "homepage": "https://github.com/FacuSautu/SGC#readme"
+}
